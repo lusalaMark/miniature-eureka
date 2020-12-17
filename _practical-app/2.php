@@ -27,7 +27,25 @@
 
 		 
 			 */
+			$number1 = 10;
+			$number2 = 20;
 
+			echo $number1 + $number2 . "<br>";
+            
+
+			$months = array ("Jan","Feb","March", "April","May");
+			print_r ($months);
+
+			$months_of_the_year = array (
+				"First_Month"  => "Jan",
+				"Second_month" => "Feb",
+				"Third_month"  => "March",
+				"Forth_Month"  => "April",
+				"Fifth_Month"  => "May"
+			);
+            echo $months[0]  . "<br>";
+
+			echo $months_of_the_year['First_Month'];
 		
 
 
