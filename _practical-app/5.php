@@ -15,15 +15,18 @@
 	<?php 
 
 
-/*  Step1: Use a pre-built math function here and echo it
+//Step1: Use a pre-built math function here and echo it
+echo sqrt(9) . '<br>';
 
 
-	Step 2:  Use a pre-built string function here and echo it
+	//Step 2:  Use a pre-built string function here and echo it
+$name = "Mark Lusala";
+echo strlen($name). '<br>';
 
+//Step 3:  Use a pre-built Array function here and echo it
+$numbers = [1,2,3,4,5,6,7,8,9];
+echo max($numbers);
 
-	Step 3:  Use a pre-built Array function here and echo it
-
- */
 
 	
 ?>

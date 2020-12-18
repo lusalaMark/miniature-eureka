@@ -17,5 +17,4 @@
 
     ?>
     <a href="about.php?name=mark">About</a>
-</body>
-</html>
+    </body>
