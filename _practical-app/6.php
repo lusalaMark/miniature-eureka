@@ -21,6 +21,8 @@
 
  <form action="6.php" method="post">
     <input type="submit" name="submit" value="SUBMIT" >
+	<input type="email" name="" id="">
+
 </form>
 
 	<?php  
