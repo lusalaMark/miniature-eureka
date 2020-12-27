@@ -7,6 +7,5 @@
 </head>
 <body>
     <input type="text">
-    <input type="button" value="">
 </body>
 </html>
